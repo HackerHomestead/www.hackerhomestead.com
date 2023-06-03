@@ -1,0 +1,30 @@
+baseURL = 'http://www.hackerhomestead.com/'
+languageCode = 'en-us'
+title = 'Hacker Homestead'
+theme = "archie"
+
+[params]
+	subtitle = "hunt, grow, share - tehnology"
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/HackerHomestead"
+
+[[params.social]]
+name = "YouTube"
+icon = "youtube"
+url = "https://www.youtube.com/@hackerhomestead"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
