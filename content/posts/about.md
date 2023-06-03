@@ -1,11 +1,11 @@
 ---
 title: "About"
-date: 2023-06-03T07:17:41-05:00
-description: "the hacker homestead's mission is to promote sustainable growth in technology; promoting sustainable practices in the technology feild."
+weight: 1
+date: 2023-04-03T07:17:41-05:00
+description: "Hacker Homestead's mission is to promote sustainable growth in technology."
 draft: false
 ---
-
-Hacker Homestead's mission is to promote sustainable growth in technology by promoting sustainable practices in the technology feild.  
+Hacker Homestead's mission is to promote sustainable growth in technology.
 
 # Activities
 - Incubating opensource projects

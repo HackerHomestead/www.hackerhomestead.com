@@ -1,4 +1,4 @@
-baseURL = 'http://www.hackerhomestead.com/'
+baseURL = 'https://www.hackerhomestead.com/'
 languageCode = 'en-us'
 title = 'Hacker Homestead'
 theme = "archie"
@@ -24,7 +24,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Files"
+url = "https://www.hackerhomestead.com/files/"
 weight = 2
 

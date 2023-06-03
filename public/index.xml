@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacker Homestead</title>
-    <link>http://www.hackerhomestead.com/</link>
+    <link>https://www.hackerhomestead.com/</link>
     <description>Recent content on Hacker Homestead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jun 2023 07:17:41 -0500</lastBuildDate><atom:link href="http://www.hackerhomestead.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 07:17:41 -0500</lastBuildDate><atom:link href="https://www.hackerhomestead.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.hackerhomestead.com/posts/about/</link>
+      <link>https://www.hackerhomestead.com/posts/about/</link>
       <pubDate>Sat, 03 Jun 2023 07:17:41 -0500</pubDate>
       
-      <guid>http://www.hackerhomestead.com/posts/about/</guid>
-      <description>Hacker Homestead&amp;rsquo;s mission is to promote sustainable growth in technology by promoting sustainable practices in the technology feild.
+      <guid>https://www.hackerhomestead.com/posts/about/</guid>
+      <description>Hacker Homestead&amp;rsquo;s mission is to promote sustainable growth in technology.
 Activities Incubating opensource projects Heratage computing product development Education programs and resources </description>
+    </item>
+    
+    <item>
+      <title>Teacup</title>
+      <link>https://www.hackerhomestead.com/posts/teacup/</link>
+      <pubDate>Sat, 03 Jun 2023 06:53:49 -0500</pubDate>
+      
+      <guid>https://www.hackerhomestead.com/posts/teacup/</guid>
+      <description>Teacup Tinkerboard is our first hardware project</description>
     </item>
     
   </channel>
